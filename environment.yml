@@ -7,4 +7,8 @@ dependencies:
   - pandas
   - jupyterlab
   - ipykernel
+  - xgboost
+  - matplotlib
+  - scikit-learn
+  - seaborn
 prefix: /home/dounia/anaconda3/envs/mlops
